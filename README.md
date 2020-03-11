@@ -15,15 +15,16 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 4. Ic=0 Ib=0 Ie=0 
 5. VRc=2.8 Vled=58.2mV Vc=55.6mV Vb=.7V Ve=5.1mV Ic=6.7mA Ib=.4mA Ie=7.1mA
 6. Ic+Ib=Ie
-7. 2.4/.4=15.16
+7. 6.7/.4=16.75
 8.
 ##### 2. PNP transistor circuit
 2. 1. The led turns on when the swithch is on because it connects the curcuit
 3. VRc=.01mV Vled=.2mV-1mV c=.4mV b=4.5V e=5V 
 4. Ic=0 Ib=0 Ie=0
 5. VRc=6.4mV Vled=5V c=5V b=4.3V e5 Ic=6.6mA Ib=.4mA Ie=7mA
-6.
-7.
+6. Ic+Ib=Ie
+7.6.6/.4=16.5
+8.
 ##### 3. Soil sensor
 2.
 3.
