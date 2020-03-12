@@ -26,8 +26,8 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 7. 6.6/.4=16.5
 8.
 ##### 3. Soil sensor
-2.
-3.
+2. dry 65 ohams wet 63 ohams
+3. dry 50 mV wet 80 mV
 4.code: https://github.com/CPE-1040-Spring-2020/assignment-5-transistor-circuits-ldoizak1/blob/master/digital-in.js
 video:https://imgur.com/gallery/Xmoa2l0
 ##### 4. manual claibartion
