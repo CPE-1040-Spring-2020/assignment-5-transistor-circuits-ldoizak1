@@ -31,11 +31,11 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 4. [code](https://github.com/CPE-1040-Spring-2020/assignment-5-transistor-circuits-ldoizak1/blob/master/digital-in.js)
 5. [video](https://imgur.com/gallery/Xmoa2l0)
 ##### 4. manual claibartion
-[code](https://github.com/CPE-1040-Spring-2020/assignment-5-transistor-circuits-ldoizak1/blob/master/manual-calibartion.js)
-[video](https://imgur.com/gallery/e6ylxpl)
+1. [code](https://github.com/CPE-1040-Spring-2020/assignment-5-transistor-circuits-ldoizak1/blob/master/manual-calibartion.js)
+2. [video](https://imgur.com/gallery/e6ylxpl)
 ##### 5. auto clibaration
-[code](https://github.com/CPE-1040-Spring-2020/assignment-5-transistor-circuits-ldoizak1/blob/master/auto-calibartion.js)
-[video](https://imgur.com/gallery/Q6wJPe2)
+1. [code](https://github.com/CPE-1040-Spring-2020/assignment-5-transistor-circuits-ldoizak1/blob/master/auto-calibartion.js)
+2. [video](https://imgur.com/gallery/Q6wJPe2)
 ```
   _           _       _   _       _       _                 _    
  | |         | |     | \ | |     | |     | |               | |   
