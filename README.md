@@ -18,7 +18,7 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 7. 6.7/.4=16.75
 8.
 ##### 2. PNP transistor circuit
-2. 1. The led turns on when the swithch is on because it connects the curcuit
+2. The led turns on when the swithch is on because it connects the curcuit
 3. VRc=.01mV Vled=.2mV-1mV c=.4mV b=4.5V e=5V 
 4. Ic=0 Ib=0 Ie=0
 5. VRc=6.4mV Vled=5V c=5V b=4.3V e5 Ic=6.6mA Ib=.4mA Ie=7mA
