@@ -23,7 +23,7 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 4. Ic=0 Ib=0 Ie=0
 5. VRc=6.4mV Vled=5V c=5V b=4.3V e5 Ic=6.6mA Ib=.4mA Ie=7mA
 6. Ic+Ib=Ie
-7.6.6/.4=16.5
+7. 6.6/.4=16.5
 8.
 ##### 3. Soil sensor
 2.
